@@ -1,0 +1,1 @@
+Opening up vulnserver.exe in IDA I can quickly trace through the creation of sockets and connection handling. Yet, all these are irrelevant for now so I skim through the strings of the binary to find “TRUN”
